@@ -1,2 +1,2 @@
-# proyecto_contador
-Trabajo final: Contador
+# proyecto_display7segmentos
+Trabajo final: Display 7 Segmentos
